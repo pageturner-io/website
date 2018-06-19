@@ -1,0 +1,44 @@
+.page__index #hero-waveform {
+  width: 100%;
+  height: 130px; }
+  .page__index #hero-waveform canvas {
+    width: 100%; }
+
+.page__index .howitworks__step__title {
+  font-size: 2em;
+  font-weight: bold;
+  margin-top: 0; }
+
+.page__index .howitworks__step__subtitle {
+  text-transform: uppercase;
+  color: #784baa;
+  font-size: 1em;
+  font-weight: bold; }
+
+.page__index .howitworks__step {
+  padding: 30px 2%; }
+  .page__index .howitworks__step--odd {
+    background: #784baa; }
+    .page__index .howitworks__step--odd .howitworks__step__title {
+      color: #f4f8fa; }
+    .page__index .howitworks__step--odd .howitworks__step__subtitle {
+      color: #ac8ecd; }
+    .page__index .howitworks__step--odd .howitworks__step__paragraph {
+      color: #f4f8fa; }
+
+@media (max-width: 479px) {
+  .page__index #hero-waveform {
+    height: 75px; } }
+
+@media (min-width: 480px) and (max-width: 767px) {
+  .page__index #hero-waveform {
+    height: 100px; } }
+
+@media (min-width: 767px) {
+  .page__index .howitworks__step--even {
+    text-align: right; } }
+
+@media (min-width: 992px) {
+  .page__index #hero-waveform {
+    width: 550px;
+    height: 130px; } }
