@@ -1,0 +1,14 @@
+@import 'scss/base/index';
+@import 'scss/modules/grid';
+@import 'scss/modules/utilities';
+@import 'scss/modules/typography';
+@import 'scss/modules/buttons';
+@import 'scss/modules/nav';
+@import 'scss/modules/forms';
+@import 'scss/modules/lists';
+@import 'scss/modules/hero';
+@import 'scss/modules/footer';
+
+.page {
+  background: $ice-gray-light;
+}

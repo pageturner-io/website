@@ -1,0 +1,19 @@
+{
+  "steps": [
+    {
+      "title": "Find a great article",
+      "subtitle": "Step 1",
+      "text": "You found a great article on the web. Great! Save it into Pageturner, directly from your browser."
+    },
+    {
+      "title": "Read it when you're ready",
+      "subtitle": "Step 2",
+      "text": "Pageturner offers you a clutter-free interface that makes reading a pleasure. You don't even need to be connected to the Internet!"
+    },
+    {
+      "title": "Even better, listen to it!",
+      "subtitle": "Step 3",
+      "text": "Because we live in the future, Pageturner employs Oscar-worthy robots to read articles aloud for you, so you can read even when you can't read!"
+    }
+  ]
+}
