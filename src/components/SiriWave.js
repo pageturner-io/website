@@ -51,6 +51,10 @@ class SiriWave extends Component {
     })
   }
 
+  componentWillUnmount() {
+    this.siriWave.destroy()
+  }
+
   render() {
     return (
       <div className='siri-wave' ref={ this.siriWaveRef } />
